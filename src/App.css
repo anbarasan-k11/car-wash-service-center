@@ -1,0 +1,169 @@
+.App {
+  background-image: linear-gradient(90deg, #00ccff, #bb44ff);
+}
+
+#style {
+  margin-right: 180px;
+  /* margin-top: 150px; */
+  background-image: linear-gradient(90deg, #00ccff, #bb44ff);
+}
+#form {
+  background-color: antiquewhite;
+  border: 2px solid black;
+  text-align: center;
+  padding: 50px;
+  margin-top: 100px;
+  width: 350px;
+  margin-left: 250px;
+
+  height: auto;
+}
+.form2 {
+  width: 570px;
+}
+#a {
+  margin-left: 172px;
+}
+#h1 {
+  text-align: center;
+  padding-left: 450px;
+}
+#form1 {
+  border: 2px solid black;
+  margin-top: -1px;
+  margin-right: 100px;
+  margin-left: 325px;
+  height: auto;
+  padding: 20px;
+  background-image: linear-gradient(90deg, #00ccff, #bb44ff);
+  width: 550px;
+}
+#form {
+  border: 2px solid black;
+  margin-top: -1px;
+  margin-right: 100px;
+  margin-left: 325px;
+  height: auto;
+  padding: 20px;
+  background-image: linear-gradient(90deg, #00ccff, #bb44ff);
+  width: 550px;
+}
+#div3 {
+  display: flex;
+  justify-content: space-between;
+}
+#div4 {
+  display: flex;
+  justify-content: space-between;
+}
+#div1 {
+  display: flex;
+  justify-content: space-between;
+}
+#username {
+  width: 380px;
+  height: 30px;
+  margin-top: 13px;
+}
+#name {
+  width: 380px;
+  height: 30px;
+  margin-top: 13px;
+}
+#emailid {
+  width: 380px;
+  height: 30px;
+  margin-top: 13px;
+}
+#div2 {
+  display: flex;
+  justify-content: space-between;
+}
+#password {
+  width: 380px;
+  height: 30px;
+  margin-top: 13px;
+}
+#password1 {
+  margin-left: 23px;
+  width: 380px;
+  height: 30px;
+  margin-top: 13px;
+}
+#submit {
+  padding: 7px;
+  margin-left: 200px;
+  width: 100px;
+  margin-right: 200px;
+  border-radius: 10px;
+  background-image: linear-gradient(90deg, #0000ff, #ff33cc);
+}
+#ep {
+  color: red;
+
+  margin: -1px;
+}
+#logo5 {
+  background-image: url("C:\Users\HP\car-service-center\src\components\car.jpg");
+  background-color: white;
+  height: 150px;
+  margin: 5px;
+  margin-left: 550px;
+  margin-right: 50px;
+  width: 230px;
+  border-radius: 50%;
+}
+#logoimage {
+  background-image: url("C:\Users\HP\car-service-center\src\components\car.jpg");
+  background-color: white;
+  margin-left: 600px;
+  margin-top: 150px;
+  height: 150px;
+  width: 230px;
+  border-radius: 50%;
+}
+#logo {
+  background-image: url("C:\Users\HP\car-service-center\src\components\car.jpg");
+  background-color: white;
+  height: 150px;
+  margin: 5px;
+  margin-left: 160px;
+  margin-right: 50px;
+  width: 230px;
+  border-radius: 50%;
+}
+#button {
+  background-color: rgb(172, 61, 61);
+}
+.car {
+  width: 390px;
+  height: 201px;
+  border-radius: 50%;
+  padding-left: 40px;
+  background-image: url("C:\Users\HP\car-service-center\src\components\car wash.jpeg");
+}
+.my-table {
+  border-collapse: collapse;
+}
+.my-table1 {
+  border-collapse: collapse;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+.my-table th,
+.my-table td {
+  border: 1px solid black;
+}
+#style1 {
+  margin: 250px;
+  margin-top: 100px;
+  background-image: linear-gradient(90deg, #00ccff, #bb44ff);
+  width: 600px;
+  height: 300px;
+}
+#model-dialog {
+  width: min-content;
+  border: 1.5px solid;
+  display: flex;
+  margin: auto;
+}
